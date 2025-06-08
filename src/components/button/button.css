@@ -1,0 +1,21 @@
+button {
+  cursor: pointer;
+}
+
+.nav-button {
+  text-transform: uppercase;
+  background-color: #fff;
+  border: #000 solid 2px;
+  border-radius: 30px;
+  color: #000;
+  font-size: 1.3rem;
+  font-weight: 800;
+  width: 10rem;
+  height: 3rem;
+  transition: all 0.3s ease-in-out;
+}
+
+.nav-button:hover {
+  background-color: #000;
+  color: #fff;
+}
